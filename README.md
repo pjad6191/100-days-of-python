@@ -1,4 +1,4 @@
-# 🐍 365 Days of Python
+# 🐍 100+ Days of Python
 
 Welcome to my journey of learning and building with Python, one day at a time.
 
@@ -12,7 +12,7 @@ As of **November 16, 2025**, I’ve completed **100 days** of Python learning an
 
 ### 🔹 What This Is
 
-This repository documents my daily Python learning over the course of **365 days**. While I started with a solid foundation, my goal is to deepen my understanding, sharpen problem-solving skills, and explore advanced areas like **data science** and **artificial intelligence (AI)**.
+This repository documents my daily Python learning. While I started with a solid foundation, my goal is to deepen my understanding, sharpen problem-solving skills, and explore advanced areas like **data science** and **artificial intelligence (AI)**.
 
 Each day, I log what I’ve learned and practiced. Along the way, I also complete small projects and coding challenges to apply new concepts and push my skills further.
 
@@ -63,10 +63,4 @@ Each day, I log what I’ve learned and practiced. Along the way, I also complet
 
 This log tracks steady, daily improvement. Posts may appear off by a day due to late commits, but I’ve stayed consistent with daily coding and reflection.
 
----
-
-## 🚀 Let’s Go!
-
-The journey to **365 days of Python** continues.  
-Follow along or start your own learning challenge!
 
